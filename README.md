@@ -1,3 +1,5 @@
-# Angular Tic-Tac-Toe PWA
+Clone the repository,
 
-[Full Angular Course](https://fireship.io/courses/angular/)
+Install all the node modules,
+
+"ng serve" and you are ready to play!
